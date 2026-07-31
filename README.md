@@ -38,7 +38,7 @@ This repository contains the core code required to demonstrate:
 ├── LICENSE
 ├── requirements.txt
 ├── code/
-│   └── PM_core_demo.py
+│   └── SM_PM_demo.py
 ├── paper_demo/
 │   ├── README_data.md
 │   ├── input/
